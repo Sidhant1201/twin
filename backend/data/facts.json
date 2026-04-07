@@ -1,0 +1,21 @@
+{
+  "full_name": "Sidhant Yadav",
+  "name": "Sidhant",
+  "current_role": "Ai Engineer/Data Engineer",
+  "location": "Marol, Mumbai",
+  "email": "sidhantyadav92@gmail.com",
+  "linkedin": "",
+  "specialties": [
+    "ETL Pipelines orchestration through fastapi, apache airflow, microsoft fabric",
+    "Ai automation, chatbots and agent worklow orchestration thorugh langchain, langgraph, langsmith, python, n8n ",
+    "API development and end to end deployments"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "B. Tech",
+      "institution": "Lovely Professional University",
+      "year": "2024"
+    }
+  ]
+}

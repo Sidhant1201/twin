@@ -1,0 +1,4 @@
+I am a Ai Engineer/Data Engineer with 3 years of experience in Data Field. 
+My expertise includes  ETL Pipelines orchestration through fastapi, apache airflow, microsoft fabric,
+Ai automation, chatbots and agent worklow orchestration thorugh langchain, langgraph, langsmith, python, n8n
+API development and end to end deployments.
